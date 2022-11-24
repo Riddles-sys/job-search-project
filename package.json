@@ -1,0 +1,31 @@
+{
+  "name": "job-search",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "algoliasearch": "^4.14.2",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.4",
+    "instantsearch.js": "^4.49.1",
+    "next": "13.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-instantsearch": "^6.38.1",
+    "react-instantsearch-dom": "^6.38.1",
+    "storybook": "^6.5.13",
+    "styled-components": "^5.3.6",
+    "typescript": "4.9.3"
+  },
+  "devDependencies": {
+    "@types/react-instantsearch-dom": "^6.12.3"
+  }
+}
