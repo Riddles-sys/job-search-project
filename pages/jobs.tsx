@@ -21,7 +21,7 @@ const searchClient = algoliasearch(
   '13e751a21f2ae69d7ccb7b590a0a9b3a'
 )
 
-export default function JobsPage(props) {
+export default function JobsPage(props: any) {
   return (
     <section>
       <InstantSearch
