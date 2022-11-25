@@ -63,7 +63,7 @@ export default function JobsPage(props: any) {
   )
 }
 
-const HitComponent = ({ hit }) => (
+const HitComponent = ({ hit }: any) => (
   <div className={styles.grid}>
     <div className={styles.card}>
       <div className={jobsStyle.card__image}>
