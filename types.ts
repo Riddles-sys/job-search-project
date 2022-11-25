@@ -65,9 +65,3 @@ export interface Location {
   name: string
   url: string
 }
-
-// export enum Status {
-//   Alive = 'Alive',
-//   Dead = 'Dead',
-//   Unknown = 'unknown',
-// }
