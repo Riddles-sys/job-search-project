@@ -8,6 +8,9 @@ Simple job search app built with NextJs and TypeScript
 
 https://job-search-project.vercel.app/
 
+![image](https://user-images.githubusercontent.com/102864650/203886143-923d3a05-672c-4f13-8647-44516ebf7302.png)
+
+
 ## Timeframe & Working Team 
 
 Solo project - 1 week.
