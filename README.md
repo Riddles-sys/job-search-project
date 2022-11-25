@@ -124,7 +124,7 @@ I am capable and I now have the knowledge of technologies that I had never heard
 
 ## Bugs
 
-I haven’t noticed a but yet although if anyone reading this does, do let me know.
+I haven’t noticed any yet although if anyone reading this does, do let me know.
   
 ## Future Improvements
   
