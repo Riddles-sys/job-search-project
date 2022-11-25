@@ -100,7 +100,7 @@ When I was trying to deploy my code to Vercel, I received an error regarding typ
 ###### <em>Fig.10: Hits Type error</em>
 
 ![Screenshot from 2022-11-25 00-22-04](https://user-images.githubusercontent.com/102864650/203885280-98f43beb-ce6e-4d60-b48c-76e72c515919.png)
-###### <em>Fig.11: Proprs Type error
+###### <em>Fig.11: Proprs Type error</em>
   
 I was able to understand and fix the error for props myself as I looked at my research on TypeScript. However, I struggled a bit more with the ‘hit’ error as what I tried produced more errors and VS code’s quick fix was also causing errors. I then asked a friend who I know is more specialised in TypeScript and we worked out that what I was doing was correct, but the syntax was wrong. I fixed this and my app was deployed. 
 
